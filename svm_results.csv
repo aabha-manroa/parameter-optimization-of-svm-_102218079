@@ -1,0 +1,11 @@
+Sample,Best Parameters,Accuracy
+1,"{'C': 10, 'gamma': 'auto', 'kernel': 'rbf'}",0.6270833333333333
+2,"{'C': 1, 'gamma': 'auto', 'kernel': 'rbf'}",0.6104166666666667
+3,"{'C': 10, 'gamma': 'scale', 'kernel': 'rbf'}",0.6208333333333333
+4,"{'C': 1, 'gamma': 'scale', 'kernel': 'rbf'}",0.6229166666666667
+5,"{'C': 1, 'gamma': 'scale', 'kernel': 'rbf'}",0.6270833333333333
+6,"{'C': 10, 'gamma': 'scale', 'kernel': 'rbf'}",0.6354166666666666
+7,"{'C': 10, 'gamma': 'auto', 'kernel': 'rbf'}",0.6291666666666667
+8,"{'C': 10, 'gamma': 'auto', 'kernel': 'rbf'}",0.625
+9,"{'C': 10, 'gamma': 'auto', 'kernel': 'rbf'}",0.6041666666666666
+10,"{'C': 1, 'gamma': 'auto', 'kernel': 'rbf'}",0.6333333333333333
